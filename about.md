@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+しがないSEがブログに挑戦中！みてやってくらはい
 
-### More Information
+### プロフィール
 
-A place to include any other types of information that you'd like to include about yourself. 
+- 東京在住
+- フリープログラマー
+- 1984年生まれ
+- 院卒社会人６年で退職
 
-### Contact me
+### お問い合わせ
 
-[email@domain.com](mailto:email@domain.com)
+[ishibashi.0123@gmail.com](mailto:ishibashi.0123@gmail.com)
