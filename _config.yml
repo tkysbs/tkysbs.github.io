@@ -9,7 +9,7 @@ name: tkysbsのブログ
 description: しがないシステム屋さんが勉強したこと、気になったことを、メモも兼ねて残していこうと思う。
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -30,7 +30,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
-# disqus: tkysbs
+disqus: tkysbs
 disqus_short_name: tkysbs
 disqus_show_comment_count: false
 
