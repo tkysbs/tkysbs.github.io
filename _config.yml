@@ -31,8 +31,6 @@ footer-links:
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: tkysbs
-disqus_short_name: tkysbs
-disqus_show_comment_count: false
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-59679890-1
