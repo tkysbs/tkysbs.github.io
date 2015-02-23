@@ -21,7 +21,11 @@ tags: [git, command]
   git status
 - 変更内容の確認  
   git diff
-- 変更ファイルの追加  git add <ファイル名＞ - 変更のコミット  git commit -m ‘＜コメント＞’ - git上に対して、変更反映  
+- 変更ファイルの追加  
+  git add <ファイル名＞
+- 変更のコミット  
+  git commit -m ‘＜コメント＞’
+- git上に対して、変更反映  
   git push <リモートリポジトリ名> <ブランチ名>
 - gitログを確認  
   git log  
